@@ -5,7 +5,7 @@
  * @author Jim Teresco
  * The College of Saint Rose, CSC 252, Spring 2014
  * Siena College, CSIS 225, Spring 2020
- * @version Spring 2020
+ * @version Spring 2022
  */
 
 public class StaticStuff {
@@ -54,8 +54,8 @@ public class StaticStuff {
         classVar = 10;
         
         // But I can't access the instance variable, because
-	// there is no instance of the class available
-	// in this static method.
+        // there is no instance of the class available
+        // in this static method.
         //instanceVar = 20;
         
         // print out our class variable
